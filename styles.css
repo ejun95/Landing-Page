@@ -1,0 +1,23 @@
+.header{
+  display: flex;
+  padding: 16px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1f2937;
+  color: #e5e7eb
+}
+
+.links {
+  list-style: none;
+  display: flex;
+  gap: 16px;
+}
+
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 500px;
+}
